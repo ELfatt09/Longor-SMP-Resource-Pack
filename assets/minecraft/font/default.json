@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/pirate.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/guild.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/empire.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/civilian.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/bandit.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE004"]
+        }
+    ]
+}

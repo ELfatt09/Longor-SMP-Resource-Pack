@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+    },
+    "overrides":[
+     {"predicate": {"custom_model_data":441}, "model":"item/lsd"},
+     {"predicate": {"custom_model_data":448}, "model":"item/long_papes"},
+     {"predicate": {"custom_model_data":449}, "model":"item/papes"},
+     {"predicate": {"custom_model_data":458}, "model":"item/ecstasy"},
+     {"predicate": {"custom_model_data":467}, "model":"item/drug_test"},
+     {"predicate": {"custom_model_data":468}, "model":"item/drug_test"}
+     ]
+}
