@@ -34,6 +34,13 @@
             "ascent": 8,
             "height": 8,
             "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/leader.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE005"]
         }
     ]
 }
