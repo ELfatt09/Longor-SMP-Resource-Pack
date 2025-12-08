@@ -37,10 +37,38 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/leader.png",
+            "file": "minecraft:ranks/pirate-leader.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/guild-leader.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/empire-leader.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/civil-leader.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/bandit-leader.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE009"]
         }
     ]
 }
